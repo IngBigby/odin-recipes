@@ -1,0 +1,45 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    text-align: center;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+    color: white;
+    background-color: green;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+h2 {
+    color: blue;
+}
+
+.steps{
+    font-size: 18px;
+    font-style: italic;
+    background-color: gainsboro
+}
+
+ul.indigriends{
+    font-weight: bold;
+    background-color: grey;
+    font-size: 20px;
+    width: fit-content;
+}
+
+img.clickbait {
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.list {
+    font-weight: bold;
+    background-color: grey;
+}
+
+.homepage {
+    text-align: right;
+}
